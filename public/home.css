@@ -1,0 +1,27 @@
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: darkgreen;
+    color: yellow;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+}
+img{
+    width: 70%;
+    height: 1000px;
+}
